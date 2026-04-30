@@ -1,22 +1,18 @@
-# Cybersecurity Portfolio - Rron Sinani
+# 🔐 Cybersecurity Portfolio - Rron Sinani
 
-# About Me
-Aspiring cybersecurity professional from Tetovo, North Macedonia.  
-Currently training on TryHackMe and studying for CompTIA Security+.  
-Focused on networking, Linux, and security fundamentals.
+## About Me
+Aspiring cybersecurity professional from North Macedonia.
+Currently learning through TryHackMe and studying for Security+.
 
----
+## Skills
+- Networking (TCP/IP, ports)
+- Linux
+- Nmap, Burp Suite, Wireshark
 
-##  Skills
-- Networking (TCP/IP, ports, DNS)
-- Linux (basic commands)
-- Tools: Nmap, Burp Suite, Wireshark
-- Virtualization: VirtualBox
-
----
-## 📂 TryHackMe Writeups
-
+## Writeups
 - [Linux Fundamentals](linux-fundamentals.md)
 - [Networking Basics](networking-basics.md)
-- ## 🔗 Links
+- [Defensive Security](defensive-security-intro.md)
+
+## Links
 - TryHackMe: https://tryhackme.com/p/Miros007
