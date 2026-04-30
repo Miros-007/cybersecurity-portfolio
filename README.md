@@ -14,3 +14,7 @@ Focused on networking, Linux, and security fundamentals.
 - Virtualization: VirtualBox
 
 ---
+## 📂 TryHackMe Writeups
+
+- [Linux Fundamentals](linux-fundamentals.md)
+- [Networking Basics](networking-basics.md)
