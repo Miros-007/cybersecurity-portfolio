@@ -1,18 +1,26 @@
 # Networking Basics - Writeup
 
 ## Objective
-Understand how devices communicate over a network.
+Understand how to identify services running on a target machine.
 
 ## Tools Used
 - Nmap
 
 ## Steps Taken
-- Ran scan:
-  `nmap -sC -sV <target IP>`
-- Identified open ports
-- Detected services running on ports
+1. Started with a basic scan:
+   nmap -sC -sV <target IP>
+
+2. Identified open ports:
+   - Port 22 → SSH
+   - Port 80 → HTTP
+
+3. Analyzed service versions to understand potential vulnerabilities
+
+## Why This Matters
+Open ports expose services that attackers can target.  
+Enumeration is the first and most important step in penetration testing.
 
 ## Key Takeaways
-- Open ports can expose services
-- Enumeration is the first step in penetration testing
-- Nmap is a critical tool for network scanning
+- Nmap helps discover attack surfaces
+- Services running on open ports can be exploited
+- Enumeration is critical before any attack
