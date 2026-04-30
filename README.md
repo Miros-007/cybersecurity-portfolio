@@ -18,3 +18,5 @@ Focused on networking, Linux, and security fundamentals.
 
 - [Linux Fundamentals](linux-fundamentals.md)
 - [Networking Basics](networking-basics.md)
+- ## 🔗 Links
+- TryHackMe: https://tryhackme.com/p/Miros007
